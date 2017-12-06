@@ -3,7 +3,7 @@
 
 #include <linux/types.h>
 //#include "AudioBTCVSDDef.h"
-#include <drivers/misc/mediatek/btcvsd/AudioBTCVSDDef.h>
+#include <btcvsd/AudioBTCVSDDef.h>
 
 #undef DEBUG_AUDDRV
 #ifdef DEBUG_AUDDRV
