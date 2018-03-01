@@ -2,7 +2,8 @@
 #define AUDDRV_BTCVSD_H
 
 #include <linux/types.h>
-#include "AudioBTCVSDDef.h"
+//#include "AudioBTCVSDDef.h"
+#include <btcvsd/AudioBTCVSDDef.h>
 
 #undef DEBUG_AUDDRV
 #ifdef DEBUG_AUDDRV
